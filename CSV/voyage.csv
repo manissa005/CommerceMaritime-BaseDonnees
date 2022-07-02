@@ -1,0 +1,14 @@
+id_voyage, duree, debut, fin, classe
+1,5,1760-05-24,1760-05-30,continentale
+2,7,1760-05-25,1761-06-19,continentale
+3,6170,1762-07-05,1762-10-05,intercontinental
+4,15,1763-10-06,1763-10-10,continentale
+5,1900,1764-12-01,1765-03-01,intercontinental
+6,1620,1760-01-01,1760-02-01,intercontinental
+7,1390,1761-02-28,1761-03-19,intercontinental
+8,5,1762-09-03,1762-09-08,continentale
+9,14,1763-01-06,1763-01-20,continentale
+10,5,1764-04-23,1764-04-28,continentale
+11,6284,1760-11-12,1761-02-12,intercontinental
+12,2,1762-03-30,1762-04-01,continentale
+13,10,1763-04-20,1763-04-30,continentale

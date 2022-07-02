@@ -1,0 +1,11 @@
+id_navire,id_nation,type,catégorie,marchandise_max,passagers_max
+1,9,Gabare,1,277,24
+2,15,Gabare,1,68,167
+3,16,Flûte,4,65,221
+4,17,Galion,5,39,147
+5,9,Galion,2,134,147
+6,10,Gabare,3,74,95
+7,2,Gabare,4,169,10
+8,5,Flûte,2,270,213
+9,4,Galion,5,34,190
+10,1,Galion,2,259,184

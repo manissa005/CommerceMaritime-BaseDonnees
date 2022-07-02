@@ -1,0 +1,2 @@
+/* Sélectionne le nombre de Gabare, Flute et Galion de chaque pays*/
+select nat.nom, nav.type, count(*) as nombre_navire from Navire nav, Nation nat where nav.id_nation = nat.id_nation group by nat.nom, nav.type;

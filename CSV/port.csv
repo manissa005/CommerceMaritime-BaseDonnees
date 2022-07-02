@@ -1,0 +1,22 @@
+id_port,id_nation,nom,categorie
+1,9,Dunkerque,2
+2,9,Le Havre,3
+3,9,Rouen,4
+4,3,Nessebar,5
+5,3,Varna,1
+6,4,Harrington Harbour,2
+7,4,Kegaska,1
+8,4,La Romaine,1
+9,7,Barcelone,4
+10,7,Cadiz,3
+11,14,Al Hoceïma,2
+12,14,Inouaren,5
+13,14,Cala Iris,4
+14,17,Londres,2
+15,10,Pyrée,1
+16,10,Ferry,5
+17,5,Dalian,1
+18,5,Yingkou,4
+19,5,Ningbo-Zhoushan,4
+20,12,Tokyo,4
+21,12,Tomakomai,5

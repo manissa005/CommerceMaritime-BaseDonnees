@@ -1,0 +1,10 @@
+id_nation1,id_nation2,relation
+14,2,alliés
+10,8,neutre
+2,5,en guerre
+13,11,neutre
+2,11,en guerre
+15,8,neutre
+5,12,en guerre
+14,15,alliés
+11,13,neutre

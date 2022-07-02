@@ -1,0 +1,14 @@
+id_voyage,id_navire,provenance,destination
+1,1,Rouen,Dunkerque
+2,2,Dunkerque,Le Havre
+3,6,Tokyo,Cala Iris
+4,7,Ferry,Londres
+5,3,Yingkou,Cadiz
+6,8,Harrington Harbour,Barcelone
+7,4,Tokyo,Al Hoceïma
+8,5,Kegaska,La Romaine
+9,3,Tomakomai,Dalian
+10,10,Inouaren,Cala Iris
+11,9,Ningbo-Zhoushan,Kegaska
+12,7,Nessebar,Varna
+13,2,Dalian,Pyrée

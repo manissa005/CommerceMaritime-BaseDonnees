@@ -1,0 +1,2 @@
+/* Séléctionne le nombre de passagers qui sont monté au port de Tokyo*/
+select sum(e.personnes_montantes) from Effectue ef join Etape e on ef.id_voyage = e.id_voyage join Port p on e.id_port = p.id_port where ef.provenance = 'Tokyo';
